@@ -1,0 +1,11 @@
+{
+  "hashtags": "#fyp #viral #serie",
+  "duracion_video": 600,
+  "espera_entre_videos": 600,
+  "min_delay": 480,
+  "max_delay": 720,
+  "min_videos_bloque": 4,
+  "max_videos_bloque": 7,
+  "min_descanso": 3600,
+  "max_descanso": 7200
+}
